@@ -1,38 +1,48 @@
 ---
 layout: post
-title: Welcome to my little blog!
+title: Welcome to my new blog!
 ---
 
-A new year and new resolutions.
-test link [Google](http://www.google.com)
+New year and resolutions.
 
+1. Listen to the Dead more. Here's my favorite, [Jack Straw Paris 72](https://www.youtube.com/watch?v=aICQdwvlwXU)
+2. Kill my [web site](http://www.jonkalev.com) replace with code running on MIT's server, served locally on jekyll. Master terminal and Git it  up when i post.  Simple text and images with links, footnote stuff of interest to readers.
 
+Realization:  a) Technology makes life complicated creativity is lost and more time consumed.
 
-My previous job had me staying here.
+​                       b) Know more, need less. Repeat...know more, need less.
+
+2- Sell camera gear, love Fuji but return to the simplicity of Leica. Fixed lens, optics as good as they can be made, editing to a minimum. No photoshop. The basics, shoot in manual mode, understand aperture, exposure and use [hyperfocal distance](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/calculating-hyperfocal-distance-in-photography?BI=19414&msclkid=53de2982346c14b1e7734a45ea85f3cb) frequently. 
+
+My former job, an alpine guide was in places like the image below. Above the treeline in a alpine tundra ecosystem where there was no cell service and every view a postcard. I convinced myself to leave the moutians and use my education to have a "real job". MIstake in many ways but it led to a series of events that put me where I am.
+
+In these conditions you can't review images as you take them in your viewfinder. One wrong step a times and your in serious trouble, you take the photos, stay safe and that evening look through your shots. 
+
+Overtime you develop a gut feel for what your camera setting should be in any light condition. 
 
 ![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/_camp.jpg)
 
-######   Iron mountain, 13, 400 ft, San Juan county Colorado
+######    
+
+Canby mountain, 4.035m [37°48'04°N 108°32'51°W](https://earth.google.com/web/search/Silverton,+CO/@37.79825199,-107.54478646,4002.35611218a,2036.1061194d,35y,144.01108402h,44.98622742t,0r/data=CmcaPRI3CiUweDg3M2VlZjE0MThlMDI4MTU6MHhhOWRkNmI5OTdiYzg4YmU4Kg5DYW5ieQpNb3VudGFpbhgCIAEiJgokCSiQloTE00VAEYkW0xkRDDhAGbTYmb3rkFPAIVOAZTmAB1_A)
+
+This made me go back to the moment I got turned on to photography. While in architecture shcool at Auburn University I had a professor named [Michael Robinson](https://cadc.auburn.edu/people/michael-robinson/).
+
+MIcahel was not easyhis courses difficult which at times made him unpopular with less than dedicated students. He had a series of seminars where he discussed cultural geographer  J.B. Jackson that I still reread and study to this day. 
+
+Jackson who taught at Harvard, where Michael went and taught prior to Auburn, focused on the American landscape after 1945 and contrary to how architectural history was written previously focusing on building styles and form, he examined larger patterns of settlement differed across a myriad of landscapes. His essays read more like short stoies and travelogues with simple powerful ink sketches. 
+
+Jackson wrote about trailer parks, clusters of dwellings in pueblos of the southwest and painted a picture of the American landscape with complex cultural and historical influences thaty greeted the land and adapted. This was a break from how America viewed itself which was tied to paintings and the romantic ideals of people like Jefferson who even after the civil war we saw ourselves and recreating a version of what was percived to be best in Europe. 
+
+What struck me reading Jackson is how Europe who we sought to copy was formed on paths then roads from Romans and was so very different from a contine nt settled by rail and then a explosive growth post world war two by car. Where I spent time livijg in the small community of Montivialle in northern Italy roads were things that connected places and were curved around them and in many cases replicated trailsthosuands of years old. Moving to the American south in my high school years I met a landscape that was detemrined by roads and automobile. Cities, buildings and commercial centers were determined by where the highways went. In architecture programs which is where I ended up after a few false starts and following the Dead this was met with disdain. Conventional wisdom in acdemia was that old andonded towns should be revitalized, suburbs sprawling out were bad and strip malls cancerous blights on the landscape. The reality is when I got through my education and internship - designs skills were mostly used by those that could afofrd them, not mainstream America. Jackson helped me se that there were two Americas. In places like Alabama there were the Clios and Lousivilles and then the Fairhopes.  The have and have nots ideology vividly expressed in built form.
+
+Jackson embraced how change occurred, embracing a car created landscape and the strip. 
+
+I have sought increasingly to document this with my camera and sketchbook. This blog hopefully will be a more detemined chronicel of that journey.
+
+I hope all those interested will follow along.
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi porta lorem mollis aliquam ut porttitor leo a. Volutpat est velit egestas dui id ornare. Tincidunt eget nullam non nisi. Cras adipiscing enim eu turpis. Tortor consequat id porta nibh venenatis. Consequat nisl vel pretium lectus quam id. Arcu ac tortor dignissim convallis aenean et tortor. Nisl nisi scelerisque eu ultrices vitae auctor eu. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae semper.
 
-Praesent semper feugiat nibh sed pulvinar proin gravida. Ut sem nulla pharetra diam sit amet nisl suscipit adipiscing. Massa eget egestas purus viverra accumsan in. Est velit egestas dui id ornare arcu odio. Eget dolor morbi non arcu. Sed odio morbi quis commodo odio aenean sed. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Sed viverra tellus in hac habitasse platea dictumst vestibulum rhoncus. Eget gravida cum sociis natoque penatibus et magnis. Ac felis donec et odio pellentesque.
-
-Semper eget duis at tellus at urna condimentum. Aenean vel elit scelerisque mauris pellentesque. Gravida neque convallis a cras. Vestibulum lorem sed risus ultricies tristique. Nunc sed augue lacus viverra vitae. Dictum non consectetur a erat nam. Viverra suspendisse potenti nullam ac tortor. Quis auctor elit sed vulputate mi sit amet. Pellentesque elit ullamcorper dignissim cras tincidunt. In tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Vitae tempus quam pellentesque nec nam aliquam. Nisl purus in mollis nunc sed id semper risus in. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit amet. Leo urna molestie at elementum eu facilisis sed. Placerat in egestas erat imperdiet sed euismod nisi. Hac habitasse platea dictumst vestibulum rhoncus est. Posuere ac ut consequat semper viverra nam libero. Aliquet enim tortor at auctor urna. Aliquet bibendum enim facilisis gravida neque convallis a cras. Ut tellus elementum sagittis vitae.
-
-Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui faucibus in ornare quam viverra orci sagittis eu volutpat. Elementum curabitur vitae nunc sed velit dignissim sodales. Nibh mauris cursus mattis molestie a iaculis at erat pellentesque. Risus nullam eget felis eget nunc lobortis mattis aliquam. Egestas fringilla phasellus faucibus scelerisque. Facilisis leo vel fringilla est ullamcorper. Vel risus commodo viverra maecenas accumsan. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Et magnis dis parturient montes nascetur ridiculus. Vestibulum lorem sed risus ultricies tristique nulla. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Vitae et leo duis ut diam. Elementum nisi quis eleifend quam adipiscing. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Lorem ipsum dolor sit amet consectetur adipiscing elit duis.
-
-Urna porttitor rhoncus dolor purus non enim praesent. Elementum nibh tellus molestie nunc non blandit. Blandit massa enim nec dui nunc mattis enim. Sagittis orci a scelerisque purus semper eget. Semper auctor neque vitae tempus quam pellentesque nec. In ornare quam viverra orci sagittis eu. Blandit libero volutpat sed cras ornare. Sit amet est placerat in egestas erat. Ut porttitor leo a diam. Bibendum arcu vitae elementum curabitur. Dictumst quisque sagittis purus sit amet. Sed risus ultricies tristique nulla aliquet enim tortor at. Sapien pellentesque habitant morbi tristique senectus et netus. Consequat ac felis donec et odio pellentesque diam volutpat.
-
-Habitant morbi tristique senectus et netus et malesuada. Imperdiet massa tincidunt nunc pulvinar sapien. Tempus quam pellentesque nec nam aliquam sem et. Ut tortor pretium viverra suspendisse potenti nullam. Diam phasellus vestibulum lorem sed risus ultricies tristique. Habitasse platea dictumst quisque sagittis. Ac orci phasellus egestas tellus rutrum tellus pellentesque. Auctor eu augue ut lectus arcu bibendum at. Duis at tellus at urna condimentum mattis. Adipiscing bibendum est ultricies integer. Sed velit dignissim sodales ut eu. Amet nisl purus in mollis nunc sed id semper risus. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Enim nulla aliquet porttitor lacus. Semper quis lectus nulla at volutpat diam ut venenatis. Urna neque viverra justo nec ultrices dui. A diam maecenas sed enim ut sem viverra. Vestibulum rhoncus est pellentesque elit. Est ullamcorper eget nulla facilisi.
-
-Pharetra massa massa ultricies mi quis. Ultrices eros in cursus turpis massa tincidunt dui. Mi proin sed libero enim sed faucibus turpis in eu. Morbi tristique senectus et netus et malesuada fames ac turpis. Faucibus nisl tincidunt eget nullam non. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Ut consequat semper viverra nam libero justo. Vivamus at augue eget arcu dictum varius duis. Congue nisi vitae suscipit tellus mauris. Semper viverra nam libero justo laoreet sit. Amet tellus cras adipiscing enim eu turpis. Habitasse platea dictumst quisque sagittis purus sit amet volutpat. Sit amet aliquam id diam maecenas ultricies. Nibh cras pulvinar mattis nunc sed blandit libero volutpat sed. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Augue ut lectus arcu bibendum at. Ipsum dolor sit amet consectetur. Elit scelerisque mauris pellentesque pulvinar pellentesque.
-
-Morbi tincidunt ornare massa eget egestas. Interdum velit euismod in pellentesque massa placerat duis ultricies. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Nibh tellus molestie nunc non blandit massa. Rhoncus urna neque viverra justo nec ultrices. Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Faucibus pulvinar elementum integer enim neque volutpat. Mollis aliquam ut porttitor leo a diam sollicitudin tempor. Vulputate mi sit amet mauris commodo quis imperdiet massa. Auctor urna nunc id cursus metus aliquam. Tellus molestie nunc non blandit. Aenean sed adipiscing diam donec adipiscing tristique risus. Diam quis enim lobortis scelerisque fermentum dui. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum.
-
-Nisl purus in mollis nunc sed id semper risus. At imperdiet dui accumsan sit amet. Enim sit amet venenatis urna cursus eget nunc scelerisque viverra. In est ante in nibh mauris. In nibh mauris cursus mattis molestie a iaculis. In hac habitasse platea dictumst quisque sagittis. Interdum velit euismod in pellentesque massa. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Ultrices neque ornare aenean euismod elementum. Sollicitudin tempor id eu nisl nunc mi. Vitae sapien pellentesque habitant morbi tristique senectus. Aliquam etiam erat velit scelerisque. Ipsum dolor sit amet consectetur adipiscing elit. Risus in hendrerit gravida rutrum quisque non tellus. Augue interdum velit euismod in pellentesque massa placerat duis. Tortor id aliquet lectus proin nibh nisl condimentum. Arcu felis bibendum ut tristique et. Iaculis at erat pellentesque adipiscing commodo elit at. Lacinia at quis risus sed vulputate. Tristique et egestas quis ipsum suspendisse.
-
-Etiam tempor orci eu lobortis. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Neque aliquam vestibulum morbi blandit cursus risus at. Cursus eget nunc scelerisque viverra mauris in. Id nibh tortor id aliquet lectus proin nibh nisl condimentum. Vitae et leo duis ut diam quam nulla porttitor. Praesent semper feugiat nibh sed. Egestas tellus rutrum tellus pellentesque eu. Dolor morbi non arcu risus quis varius quam quisque id. Tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque massa placerat duis ultricies lacus sed. Ipsum faucibus vitae aliquet nec ullamcorper. Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Purus in mollis nunc sed id semper risus in hendrerit.
 

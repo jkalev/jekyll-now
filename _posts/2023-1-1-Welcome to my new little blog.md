@@ -3,7 +3,7 @@ layout: post
 title: My new years resolutions !
 ---
 
-New years resolutions.
+Resolutions.
 
 1. Listen to the Dead more. Here's my fav, [Jack Straw Paris 72](https://www.youtube.com/watch?v=aICQdwvlwXU)
 2. Kill my [web site](http://www.jonkalev.com) replace with code running on MIT's server, served local on jekyll. Master terminal and Git it  up when i post.  Simple text and images, links, footnote sources and linksn of  interest to readers. If you are reading this its dead.

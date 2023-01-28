@@ -36,12 +36,12 @@ For some reason I convinced myself to leave these mountains and use my education
 
 Below are a few pics from where I lived most of my adult life and worked as guide in Silverton Colorado. I miss these mountains  every day, minute, and second of my life. 
 
-Below is a link to one of my favorite places to pitch my tent and spend nights cooking and drinking with Basque sheepherders beneath [Canby Mountain @ 37°48'04°N 108°32'51°W](https://earth.google.com/web/search/Silverton,+CO/@37.79825199,-107.54478646,4002.35611218a,2036.1061194d,35y,144.01108402h,44.98622742t,0r/data=CmcaPRI3CiUweDg3M2VlZjE0MThlMDI4MTU6MHhhOWRkNmI5OTdiYzg4YmU4Kg5DYW5ieQpNb3VudGFpbhgCIAEiJgokCSiQloTE00VAEYkW0xkRDDhAGbTYmb3rkFPAIVOAZTmAB1_A)
+Below is a link to one of my favorite places to pitch my tent and spend nights cooking and drinking with sheepherders beneath [Canby Mountain @ 37°48'04°N 108°32'51°W](https://earth.google.com/web/search/Silverton,+CO/@37.79825199,-107.54478646,4002.35611218a,2036.1061194d,35y,144.01108402h,44.98622742t,0r/data=CmcaPRI3CiUweDg3M2VlZjE0MThlMDI4MTU6MHhhOWRkNmI5OTdiYzg4YmU4Kg5DYW5ieQpNb3VudGFpbhgCIAEiJgokCSiQloTE00VAEYkW0xkRDDhAGbTYmb3rkFPAIVOAZTmAB1_A)
 
 Hopefully one day soon I will get to return mountains.
-In the mean time I'm going to learn to use my camera better and take a few snapshots along the way.
+In the mean time I'm going to learn to use my camera better ask more questions and pursue what James Agee called “the cruel radiance of what is.”
 
-I hope all those interested will follow along, feel free to contact me via the email link above. And happy new years !
+
 <body>
 
 <div class="slideshow-container">

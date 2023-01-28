@@ -35,8 +35,8 @@ I miss these mountains  every day, every minute, and second of my life.
 
 Below is a link to one of my favorite places to pitch my tent and spend nights watching the stars beneath [Canby Mountain @ 37°48'04°N 108°32'51°W](https://earth.google.com/web/search/Silverton,+CO/@37.79825199,-107.54478646,4002.35611218a,2036.1061194d,35y,144.01108402h,44.98622742t,0r/data=CmcaPRI3CiUweDg3M2VlZjE0MThlMDI4MTU6MHhhOWRkNmI5OTdiYzg4YmU4Kg5DYW5ieQpNb3VudGFpbhgCIAEiJgokCSiQloTE00VAEYkW0xkRDDhAGbTYmb3rkFPAIVOAZTmAB1_A)
 
-Hopefully one day soon I will get to return mountains.
-In the mean time I'm going to learn to use my camera better and  In the mean time I’m going to learn to use my camera better ask more questions and pursue what James Agee called “the cruel radiance of what is.”
+Hopefully one day soon I will get to return to these mountains.
+In the mean time I’m going to learn to use my camera better ask more questions and pursue what James Agee called “the cruel radiance of what is.”
 happy new years !
 
 <body>

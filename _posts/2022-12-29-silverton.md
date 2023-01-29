@@ -19,5 +19,15 @@ Reportedly Adams was watching the phenomena of alpenglow swirl around Kendal one
 Adams had just come off winning a Guggenheim fellowship which he used to travel around the mountain west taking photographs; the work was so phenomenal the foundation renewed it for another year in 1949. Adams exhibited the Silverton photo in 1955 when Adams and Nancy Newhall organized an exhibit at the Le Conte Lodge called "This Is the American Earth." Ansel described it as the first endeavor of its kind to relate to conservation at "both the sociological and esthetic level." The exhibit was circulated in the United States by the Smithsonian Institution
 Below is a duo of photos from the Adams foundation of the image made in Silverton compared to one Evan Russell took 60 years later.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qZlovMptjyQ?controls=0&amp;start=21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="youtube-video-container">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/qZlovMptjyQ?controls=0&amp;start=21"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
+
 

@@ -16,11 +16,10 @@ title: The Golly Gee effect
   <iframe
     width="560"
     height="315"
-    src="https://youtu.be/tXd09NDQW3w"
+    src="https://www.youtube.com/embed/tXd09NDQW3w"
     frameborder="0"
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
   ></iframe>
 </div>
-
 

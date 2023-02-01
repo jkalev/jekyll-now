@@ -12,7 +12,7 @@ born/ England, grew up in Italy and finished high school in Alabama, attended Au
 
 
 work/ practiced architecture and planning for 20 years before becoming an itinerant mountain guide and photo junkie.
-projects/ Scipio Creel Fishing lodge Apalachicola FL, Hill House Carbondale Colorado, 7th and main Aspen Colorado
+projects/ Scipio Creek Fishing Lodge Apalachicola FL, Hill House Carbondale Colorado, 7th and Main Affordable Housing Aspen Colorado
 
 interests/ cultural landscapes, reconstruction era architecture. public land disputes, visual analysis of crimes.
 

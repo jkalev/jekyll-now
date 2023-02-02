@@ -8,7 +8,7 @@ permalink: /about/
 
 
 <p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/me-long.jpg" alt="me"/> </p> 
-born/ England, grew up in Italy and finished high school in Alabama, attended Auburn University, undergraduate degrees in architecture and environmental design (with honors), followed the <a href="https://en.wikipedia.org/wiki/Grateful_Dead">Dead</a> then earned graduate a degree in landscape architecture, and studied english literature at Harvard University.
+born/ England, grew up in Italy and finished high school in Alabama, attended Auburn University, undergraduate degrees in architecture and environmental design (with honors), followed the <a href="https://en.wikipedia.org/wiki/Grateful_Dead">Dead</a> earned a graduate degree in landscape architecture, and studied english literature at Harvard University.
 
 
 work/ practiced architecture and planning for 20 years before becoming an itinerant mountain guide and photo junkie.

@@ -20,4 +20,4 @@ published/ <a href="https://jonkalev.medium.com">Medium</a>, (film work) <a href
 Back to Malheur: Two Years Later</a>. 
 
 
-### [Email](mailto:contactjonkalev@icloud.com)
+### [email](mailto:contactjonkalev@icloud.com)

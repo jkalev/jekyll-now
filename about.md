@@ -15,7 +15,7 @@ born/ England, grew up in Italy and finished high school in Alabama, attended Au
 work/ practiced architecture and planning for 20 years before becoming a mountain guide and photo junkie.
 
 
-interests/ cultural landscapes, reconstruction era architecture. public land disputes, visual analysis of crimes.
+interests/ cultural landscapes, public land use disputes, visual analysis of crimes.
 
 published/ <a href="https://jonkalev.medium.com">Medium</a>, (film work) <a href="https://youtu.be/O2Vy52pqV6k">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
 Back to Malheur: Two Years Later</a>. 

@@ -18,7 +18,7 @@ photography interests/ cultural landscapes, alpine ecosystems, public land use, 
 published/ <a href="https://jonkalev.medium.com">Medium</a>, (film work) <a href="https://youtu.be/O2Vy52pqV6k">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
 Back to Malheur: Two Years Later</a>. 
 
-/[email](mailto:contactjonkalev@icloud.com)
+/contact [email](mailto:contactjonkalev@icloud.com)
 
 <hr>
   

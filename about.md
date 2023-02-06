@@ -7,9 +7,8 @@ permalink: /about/
 
 
 
-<p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/me-long.jpg" alt="me" width="270" height="270"/> </p> 
+<p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/me-long.jpg" alt="me"/> </p> 
 
-Edwin, Alabama
 
 contact/ [email](mailto:contactjonkalev@icloud.com)
 
@@ -20,7 +19,7 @@ interests/ cultural landscape, public land use conflict, visual analysis.
 selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://youtu.be/O2Vy52pqV6k">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
 Back to Malheur: Two Years Later</a>. 
 
-
+Sign up to follow!
 
 <hr>
   
@@ -28,14 +27,14 @@ Back to Malheur: Two Years Later</a>.
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
     <form action="https://jonkalev.us21.list-manage.com/subscribe/post?u=12927e5257fbb074f8fafe414&amp;id=40328fe26d&amp;f_id=0037dde1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-<b>Interested in following? </b>
+
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

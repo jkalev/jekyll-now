@@ -34,7 +34,7 @@ contact/ [email](mailto:contactjonkalev@icloud.com)
 <div id="mc_embed_signup">
     <form action="https://jonkalev.us21.list-manage.com/subscribe/post?u=12927e5257fbb074f8fafe414&amp;id=40328fe26d&amp;f_id=0037dde1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-Interested in following  my blog? Enter you email below and never miss a post!
+Interested in following my blog?
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

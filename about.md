@@ -7,7 +7,7 @@ permalink: /about/
 
 
 
-<p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/me-long.jpg" alt="me"/> </p> 
+<p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/me-long.jpg" alt="me" width="270" height="270"/> </p> 
 
 Edwin, Alabama
 

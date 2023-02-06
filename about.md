@@ -1,25 +1,26 @@
 ---
 layout: page
-title: null
+title: 
 permalink: /about/
-published: true
 ---
 
 
 
 
-<p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/me-long.jpg" alt="me"  width="250" height="250"/> </p> 
-born/ England, grew up in Italy and finished high school in Alabama, attended Auburn University, undergraduate degrees in architecture and environmental design (with honors), followed the <a href="https://en.wikipedia.org/wiki/Grateful_Dead">Dead</a> then earned graduate a degree in landscape architecture, and studied english literature at Harvard University.
+<p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/me-long.jpg" alt="me"/> </p> 
 
-
-work/ practiced architecture and planning for over 20 years before becoming an itinerant mountain guide and photo junkie.
-
-photography interests/ cultural landscapes, alpine ecosystems, public land use, visual analysis.
-
-published/ <a href="https://jonkalev.medium.com">Medium</a>, (film work) <a href="https://youtu.be/O2Vy52pqV6k">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
-Back to Malheur: Two Years Later</a>. 
+Edwin, Alabama
 
 contact/ [email](mailto:contactjonkalev@icloud.com)
+
+past/ practiced architecture and planning for over 20 years before ranching.
+
+interests/ cultural landscape, public land use conflict, visual analysis.
+
+selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://youtu.be/O2Vy52pqV6k">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
+Back to Malheur: Two Years Later</a>. 
+
+
 
 <hr>
   
@@ -34,7 +35,7 @@ contact/ [email](mailto:contactjonkalev@icloud.com)
 <div id="mc_embed_signup">
     <form action="https://jonkalev.us21.list-manage.com/subscribe/post?u=12927e5257fbb074f8fafe414&amp;id=40328fe26d&amp;f_id=0037dde1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-Interested in following my blog?
+<b>Interested in following? </b>
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -50,7 +51,7 @@ Interested in following my blog?
         <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                <p class="brandingLogo"><a href="http://eepurl.com/ij4kSP" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
+                <p class="brandingLogo"><a href="http://eepurl.com/ij4kSP" title="Mailchimp - email marketing made easy and fun"><img src=""></a></p>
             </div>
         </div>
     </div>
@@ -58,3 +59,4 @@ Interested in following my blog?
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+

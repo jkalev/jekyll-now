@@ -7,7 +7,7 @@ permalink: /about/
 
 
 
-<p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/me-long.jpg" alt="me"/> </p> 
+<p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230206_profile.jpg" alt="me" width="260" height="260"/> </p> 
 
 
 contact/ [email](mailto:contactjonkalev@icloud.com)

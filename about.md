@@ -14,7 +14,7 @@ contact/ [email](mailto:contactjonkalev@icloud.com)
 
 past/ practiced architecture and planning for over 20 years before ranching.
 
-interests/ cultural landscape, public land use conflict, visual analysis.
+interests/ cultural landscapes, public land use conflict, visual analysis in criminal investigations.
 
 selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://youtu.be/O2Vy52pqV6k">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
 Back to Malheur: Two Years Later</a>. 

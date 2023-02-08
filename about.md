@@ -4,22 +4,29 @@ title:
 permalink: /about/
 ---
 
+<head>
+  <title>Jon Kalev's Documentary Photography</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="Jon Kalev documentary photography">
+  <meta name="keywords" content="photography, documentary photography, Jon Kalev, alabama">
+</head>
 
 
-
-<p><img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230206_profile.jpg" alt="me" width="260" height="260"/> </p> 
+<p class="aligncenter">
+    <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230206_profile.jpg" alt="me" width="260" height="260" /> 
+</p> 
 
 
 contact/ [email](mailto:contactjonkalev@icloud.com)
 
 past/ practiced architecture and planning for over 20 years before ranching.
 
-interests/ cultural landscapes, public land use conflict, visual analysis in criminal investigations.
+interests/ cultural landscape, public land use conflict, visual analysis.
 
 selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://youtu.be/O2Vy52pqV6k">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
 Back to Malheur: Two Years Later</a>. 
 
-Sign up to follow and never miss a post!
+sign up to follow below
 
 <hr>
   

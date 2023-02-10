@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "&nbsp;"
-
+title: '&nbsp;'
+published: true
 ---
 ![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230209-mccraney-diptych.jpg)
 <p style="color: grey; font-size: 16px;"></p>
 ## The Beasley Hawlett files 
-# Part 1: How I came to be interested in the case #
+# Part 1: #
 I'll share a few thoughts on the Beasley Hawlett murders and the upcoming trial of Coley McCraney, now scheduled for April of 2023. This was an initial blog post that expanded into several posts on my old blog. I decided to combine the posts into one series and add recent photographs I’ve taken, notes and source documents from researching the case for several years. Hopefully it can be of help to those interested in the case or to who may ultimately solve it.
 
 First I’m going to say up front I do not know who killed J.B. Beasley and Tracie Hawlett. To the best of my knowledge no one does except those involved. I have resisted having an opinion about this for years and tried to listen only to the evidence. Until lately.
@@ -31,4 +31,4 @@ For several years I applied Mr. Carmichael's rules to the case.
 I've have spoken to over a hundred witnesses, photographed thousands of documents, and earned the trust of one of the victim's father, Lanier Beasley. Several other family members and current law enforcement officers have spoken to me off the record. 
 I still cannot possibly get the loss this family has experienced and the agony of not knowing what happened to them for 23 years. So in the spirit of open source and transparency to those parties interested, here is what I know.
 
-#beasleyhawlettmurders 
+#beasleyhawlettmurders

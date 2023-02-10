@@ -34,6 +34,9 @@ Why? Maybe as a black man in the white-dominated court and the police force of O
 
 McCraney should say everything he knows and remembers about that night, period, no exception. What he should have done then but can do now - if he truly is a man of faith, is start talking. I am going to be candid; instead, he is hiding behind defense lawyers and lying to the police about knowing them.
 I think this has to be said before a defense lawyer or prosecutor opens their mouth to spin a conspiracy theory or a judge lectures the community about the presumption of innocence. Let's make no mistake; this is where we are with Mr. McCraney. He is a liar and has refused to share information that could help solve these brutal murders. 
+<hr>
+ 1. McClish, Mark. Don't Be Deceived: The Definitive Book on Detecting Deception. The Marpa Group, 2012. 
+
 
 Part 2: the timeline
 

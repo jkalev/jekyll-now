@@ -51,7 +51,7 @@ In dealing with deceptive people, many police officers tied to this case, I've a
 
 
 <hr>
- 1. McClish, Mark. Don't Be Deceived: The Definitive Book on Detecting Deception. The Marpa Group, 2012. 
+
 
 <p id="footnote-1">
    1. McClish, Mark. Don't Be Deceived: The Definitive Book on Detecting Deception. The Marpa Group, 2012. <a href="#footnote-1-ref">&#8617;</a> 

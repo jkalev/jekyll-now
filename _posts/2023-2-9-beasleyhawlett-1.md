@@ -49,7 +49,7 @@ When speaking with people I've interviewed and reviewing statements taken by the
 
 In dealing with deceptive people, many police officers tied to this case, I've asked myself how I would have phrased that statement, and this has helped me see what the person is really saying. Hopefully, what I can share can help resolve this case, and if Coley McCraney is guilty, help law enforcement identify a potential accomplice.
 
-
+<a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Kx6HveAG-PIUcau7DZXcjseRXzToVDvu0lpETPeQ3IQ&font=Default&lang=en&initial_zoom=2&height=700%27%20width=%27100%25%27%20height=%27700%27%20webkitallowfullscreen%20mozallowfullscreen%20allowfullscreen%20frameborder=%270%27%3E">Link to the Timeline</a>
 <hr>
 
 
@@ -58,6 +58,6 @@ In dealing with deceptive people, many police officers tied to this case, I've a
 </p>
 
 
-Link to Part 2: the timeline
+
 
 

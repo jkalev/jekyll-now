@@ -47,9 +47,9 @@ Former secret service agent and US Marshal Mark McClish developed a technique te
 
 When speaking with people I've interviewed and reviewing statements taken by the police in the weeks following the murders, I've learned not to assume anything. We can only choose to believe what people tell us. I have spoken to over a hundred witnesses, reviewed nearly ten thousand documents, and earned the trust of one of the victim's fathers, Lanier Beasley. Several other family members and current law enforcement officers have spoken to me off the record. In all these interactions have followed McClish's advice and learned if you want to detect deception, then analyze people's language very carefully. Their words will betray them. How a person phrases his or her statement will also share information they do not want you to know.
 
-In dealing with deceptive people, many police officers tied to this case, I've asked myself how I would have phrased that statement, and this has helped me see what the person is really saying. Hopefully, what I can share can help resolve this case, and if Coley McCraney is guilty, help law enforcement identify a potential accomplice.
+In dealing with deceptive people, many police officers tied to this case, I've asked myself how I would have phrased that statement, and this has helped me see what the person is really saying. Hopefully, what I can share will help resolve this case, and if Coley McCraney is guilty, help law enforcement identify a potential accomplice.
 
-<a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Kx6HveAG-PIUcau7DZXcjseRXzToVDvu0lpETPeQ3IQ&font=Default&lang=en&initial_zoom=2&height=700%27%20width=%27100%25%27%20height=%27700%27%20webkitallowfullscreen%20mozallowfullscreen%20allowfullscreen%20frameborder=%270%27%3E">Link to the Timeline</a>
+<a href="">Link to the Timeline</a>
 <hr>
 
 

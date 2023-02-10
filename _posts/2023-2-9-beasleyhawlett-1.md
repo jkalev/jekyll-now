@@ -3,7 +3,7 @@ layout: post
 title: "&nbsp;"
 
 ---
-![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230209_mccraney-dip.jpg)
+![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230209-mccraney-diptych.jpg)
 <p style="color: grey; font-size: 16px;"></p>
 ## The Beasley Hawlett files 
 # Part 1: How I came to be interested in the case #

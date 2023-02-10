@@ -21,6 +21,7 @@ A self-described "psychic body finder" led me to research the Beasley Hawlett ca
 For the record, I don't believe the psychic stuff, but I can't explain how he found the bodies, so the fact he was now engaged in the Beasley Hamlet case was disturbing. I started asking questions in a personal capacity and reading what was publicly available about the murders of the two girls on July 31, 1999.
 
 This case is complex, and the Ozark Police department, as well as the State Bureau of Investigations (formerly Alabama Bureau of Investigations), have spent an enormous amount of resources over the past two decades and could not solve it.
+
 ![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/coley-2.jpg)
 <p style="color: grey; font-size: 16px;">Coley McCraney</p>
 
@@ -34,10 +35,18 @@ Why? Maybe as a black man in the white-dominated court and the police force of O
 
 McCraney should say everything he knows and remembers about that night, period, no exception. What he should have done then but can do now - if he truly is a man of faith, is start talking. I am going to be candid; instead, he is hiding behind defense lawyers and lying to the police about knowing them.
 I think this has to be said before a defense lawyer or prosecutor opens their mouth to spin a conspiracy theory or a judge lectures the community about the presumption of innocence. Let's make no mistake; this is where we are with Mr. McCraney. He is a liar and has refused to share information that could help solve these brutal murders. 
+
+
 <hr>
  1. McClish, Mark. Don't Be Deceived: The Definitive Book on Detecting Deception. The Marpa Group, 2012. 
 
+<p id="footnote-1">
+   1. Here is my first footnote. <a href="#footnote-1-ref">&#8617;</a> 
+</p>
+<p id="footnote-2">
+   2. Another footnote. <a href="#footnote-2-ref">&#8617;</a>
+</p>
 
-Part 2: the timeline
+Link to Part 2: the timeline
 
-#beasleyhawlettmurders 
+

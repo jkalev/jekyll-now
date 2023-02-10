@@ -36,7 +36,18 @@ Why? Maybe as a black man in the white-dominated court and the police force of O
 McCraney should say everything he knows and remembers about that night, period, no exception. What he should have done then but can do now - if he truly is a man of faith, is start talking. I am going to be candid; instead, he is hiding behind defense lawyers and lying to the police about knowing them.
 I think this has to be said before a defense lawyer or prosecutor opens their mouth to spin a conspiracy theory or a judge lectures the community about the presumption of innocence. Let's make no mistake; this is where we are with Mr. McCraney. He is a liar and has refused to share information that could help solve these brutal murders. 
 
-<a id="footnote-1-ref" href="#footnote-1">[1]</a>
+After becoming interested in this case due to the psychic body finder's involvement, I met several law enforcement officers over the next several years who discussed the case privately. I learned from a retired homicide detective named Danny Carmichael (Montgomery Police Department) three questions, motive, opportunity, and ability is what to ask. He told me to develop a detailed timeline and let it determine questions. Resist forming an opinion and be suspicious of your own bias. Simple rules, hard to follow.
+
+Much of the known information, in this case, is in the form of witness statements. Outside of the DNA, which indicates only that McCraney had some type of consensual sexual encounter, the autopsy noted there were no signs of sexual assault.
+This makes pay phone records, security video at the convenience store where they were last seen, and witness statements critical.
+
+Former secret service agent and US Marshal Mark McClish developed a technique termed "statement analysis" that measures the reliability of a witness's statements.
+
+"When a truthful person describes a past event, he is relying upon his memory as he tells the story. It will be like a parade passing in front of him, and he will state in sequential order everything that is occurring. He should be speaking from the perspective as if he were reliving the event." <a id="footnote-1-ref" href="#footnote-1">[1]</a>
+
+When speaking with people I've interviewed and reviewing statements taken by the police in the weeks following the murders, I've learned not to assume anything. We can only choose to believe what people tell us. I have spoken to over a hundred witnesses, reviewed nearly ten thousand documents, and earned the trust of one of the victim's fathers, Lanier Beasley. Several other family members and current law enforcement officers have spoken to me off the record. In all these interactions have followed McClish's advice and learned if you want to detect deception, then analyze people's language very carefully. Their words will betray them. How a person phrases his or her statement will also share information they do not want you to know.
+
+In dealing with deceptive people, many police officers tied to this case, I've asked myself how I would have phrased that statement, and this has helped me see what the person is really saying. Hopefully, what I can share can help resolve this case, and if Coley McCraney is guilty, help law enforcement identify a potential accomplice.
 
 
 <hr>

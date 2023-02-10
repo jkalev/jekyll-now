@@ -41,11 +41,9 @@ I think this has to be said before a defense lawyer or prosecutor opens their mo
  1. McClish, Mark. Don't Be Deceived: The Definitive Book on Detecting Deception. The Marpa Group, 2012. 
 
 <p id="footnote-1">
-   1. Here is my first footnote. <a href="#footnote-1-ref">&#8617;</a> 
+   1. McClish, Mark. Don't Be Deceived: The Definitive Book on Detecting Deception. The Marpa Group, 2012. <a href="#footnote-1-ref">&#8617;</a> 
 </p>
-<p id="footnote-2">
-   2. Another footnote. <a href="#footnote-2-ref">&#8617;</a>
-</p>
+
 
 Link to Part 2: the timeline
 

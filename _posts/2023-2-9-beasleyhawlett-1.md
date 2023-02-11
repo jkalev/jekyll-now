@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "&nbsp;"
-
+title: '&nbsp;'
+published: true
 ---
 ![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230209-mccraney-diptych.jpg)
 <p style="color: grey; font-size: 16px;"></p>
 ## The Beasley Hawlett Files: part 1
-I'll share a few thoughts on the Beasley Hawlett murders and the upcoming trial of Coley McCraney, now scheduled for April 2023. This was an initial blog post that expanded into several. I combined the posts into a four-part series for Medium and added photographs I've taken, notes, and source documents. This series is aimed at the local community of south Alabama, where many have followed this case for years. At a community level, it has left a deep emotional scar that has fueled conspiracy theories and undermined confidence in our law enforcement. Above all, it has remained unsolved for over twenty years.
+I'll share a few thoughts on the Beasley Hawlett murders and the upcoming trial of Coley McCraney, now scheduled for April 2023. This was an initial blog post that expanded into several. I combined the posts into a four-part series for Medium and added photographs I've taken, notes, and source documents. This series is aimed at the local community of south Alabama, where many have followed this case for years. At a community level, it has left a deep emotional scar that has fueled conspiracy theories and undermined confidence in law enforcement. Above all, it has remained unsolved for over twenty years.
 
-First, I'm going to say up front I do not know who killed JB Beasley and Tracie Hawlett. To the best of my knowledge, no one does except those involved. This will not be a whodunnit, just me sharing everything I know about the case after years of research.
-Contrary to public opinion, I can say that Coley McCraney may be guilty, and I hope to explain why that is possible and illustrate other theories evidence could support. The question a jury will have in the courtroom is going to be reasonable doubt. This is a percentage that with every jury is a roll of the dice; it may be 80% or 90%, depending on its makeup. This is especially important because, in this case, unlike most, there is no murder weapon, the Ozark Police department cannot put McCraney at the scene of the crime, and no one to date has been able to prove the motive for the murders. My prediction is this trial will come down to what percentage of reasonable doubt is held by the jury and if it's enough to avoid a guilty verdict. It is a long two months between now and the trial, so this could change in an instant if just one person in Dale county decides to come forward.
+First, I'm going to say up front I do not know who killed JB Beasley and Tracie Hawlett. To the best of my knowledge, no one does except those involved. This will not be a whodunnit, just sharing everything I know about the case after years of research.
+Contrary to public opinion, I can say that Coley McCraney may be guilty, and I hope to explain why that is possible and illustrate other theories evidence could support. 
+The question a jury will have in the courtroom is going to be one of  reasonable doubt. This is a percentage that with every jury is a roll of the dice; it may be 80% or 90%, depending on its makeup. This is especially important because, in this case, unlike most, there is no murder weapon, the Ozark Police department cannot put McCraney at the scene of the crime, and no one to date has been able to prove the motive for the murders. My prediction is this trial will come down to what percentage of reasonable doubt is held by the jury and if it's enough to avoid a guilty verdict. It is a long two months between now and the trial, so this could change in an instant if just one person in Dale county decides to come forward.
 
 A brief background for anyone questioning my interest in  this case. 
 
@@ -56,8 +57,3 @@ In dealing with deceptive people, many police officers tied to this case, I've a
 <p id="footnote-1">
    1. McClish, Mark. Don't Be Deceived: The Definitive Book on Detecting Deception. The Marpa Group, 2012. <a href="#footnote-1-ref">&#8617;</a> 
 </p>
-
-
-
-
-

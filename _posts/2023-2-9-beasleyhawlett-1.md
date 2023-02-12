@@ -5,7 +5,7 @@ published: true
 ---
 ![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230209-mccraney-diptych.jpg)
 <p style="color: grey; font-size: 16px;"></p>
-## The Beasley Hawlett Files: part 1
+## The Beasley Hawlett Files: Part 1
 I'll share a few thoughts on the Beasley Hawlett murders and the upcoming trial of Coley McCraney, now scheduled for April 2023. This was an initial blog post that expanded into several. I combined the posts into a four-part series for Medium and added photographs I've taken, notes, and source documents. This series is aimed at the local community of south Alabama, where many have followed this case for years. At a community level, it has left a deep emotional scar that has fueled conspiracy theories and undermined confidence in law enforcement. Above all, it has remained unsolved for over twenty years.
 
 I do not know who killed JB Beasley and Tracie Hawlett. To the best of my knowledge, no one does except those involved. This will not be a whodunnit, just sharing what I've learned about the case after years of research.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '&nbsp;'
-published: true
+published: false
 ---
 ![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230209-mccraney-diptych.jpg)
 <p style="color: grey; font-size: 16px;"></p>

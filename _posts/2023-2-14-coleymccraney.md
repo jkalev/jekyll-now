@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "&nbsp;"
-
+title: '&nbsp;'
+published: false
 ---
 ![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230214_TracieJB.jpg)
 <p style="color: grey; font-size: 16px;">Tracie Hawlett and JB Beasley murdered in Ozark Alabama in 1999</p>
@@ -66,8 +66,3 @@ Critical to the theory McCraney may be innocent is a witnesses coming forward pr
 Shortly after this statement was given Ozark Police arrested Johnny Barrentine for the crime and when charges were dropped several months later the lead was not followed up on.
 
 Both of these statement taken by officer Steve Arrington appear unknown to the current police department’s investigators and were not turned over to McCraney's defense team in the discovery requests.
-
-
-
-
-

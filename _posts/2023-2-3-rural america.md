@@ -5,7 +5,7 @@ title: "&nbsp;"
 ---
 ![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230203-Blue+springs_DSF9445.jpg)
 <p style="color: grey; font-size: 16px;">Blue Springs, Alabama</p>
-[The old pool at Blue Springs State park](https://www.arcgis.com/apps/instant/basic/index.html?appid=38f90eba7a304318974ac50faf3131d4)
+[](https://www.arcgis.com/apps/instant/basic/index.html?appid=38f90eba7a304318974ac50faf3131d4)
 ## Everyday Rural America 
 For years I have used photographs to illustrate ideas—realization: major shortcoming linked to architectural education.
 I've failed to listen to what images tell me and the experience of the moment.  

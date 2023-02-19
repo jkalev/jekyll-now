@@ -13,7 +13,7 @@ permalink: /about/
 
 
 <p class="aligncenter">
-    <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230206_profile.jpg" alt="me" width="260" height="260" /> 
+    <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230219_cow_5818_jpg.jpg" alt="me" /> 
 </p> 
 
 

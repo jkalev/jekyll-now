@@ -28,7 +28,7 @@ interests/ cultural landscape, public land use conflict, visual analysis.
 selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://youtu.be/O2Vy52pqV6k">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
 Back to Malheur: Two Years Later</a>. 
 
-sign up to follow on facebok and never miss a post
+sign up to follow on facebok and never miss a post!
 
 <hr>
   

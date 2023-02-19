@@ -19,7 +19,9 @@ permalink: /about/
 
 contact/ [email](mailto:contactjonkalev@icloud.com)
 
-past/ practiced architecture and planning for over 20 years before ranching.
+present/ rancher with a camera
+
+past/ practiced architecture and planning for over 20 years.
 
 interests/ cultural landscape, public land use conflict, visual analysis.
 

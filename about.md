@@ -25,7 +25,7 @@ past/ practiced architecture for 20 years.
 
 interests/ cultural landscape, public land use conflict, visual analysis.
 
-selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://jonkalev.medium.com">Zilphia Horton Grant: Baptist Bottoms</a> <a href="https://jonkalev.com/baptistbottoms">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
+selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://jonkalev.medium.com">Zilphia Horton Community Grant: Baptist Bottoms</a> <a href="https://jonkalev.com/baptistbottoms">, No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
 Back to Malheur: Two Years Later</a>. 
 
 sign up to follow on facebok and never miss a post!

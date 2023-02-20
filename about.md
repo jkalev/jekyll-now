@@ -21,7 +21,7 @@ contact/ [email](mailto:contactjonkalev@icloud.com)
 
 present/ rancher with a camera
 
-past/ practiced architecture and planning for over 20 years.
+past/ practiced architecture for 20 years.
 
 interests/ cultural landscape, public land use conflict, visual analysis.
 

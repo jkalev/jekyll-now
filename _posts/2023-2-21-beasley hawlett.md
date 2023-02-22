@@ -59,7 +59,7 @@ For one glorious summer they were beautiful, wild and free. I think that's how t
 <p style="color: grey; font-size: 15px;"> Witness who described a white Ford truck with 38 plates at the crime scene near the time of their death</p>
 
 ![](https://jonkalev.s3.us-west-2.amazonaws.com/20230221_TIMELINE_12-16AM-B.jpg)
-<p style="color: grey; font-size: 15px;"> Witness who described seeing the crime scene on Herring street</p>
+<p style="color: grey; font-size: 15px;"> Witness who described seeing and altercation and girls screaming at the crime scene on Herring street near the estimated time of death</p>
 
 ![](https://jonkalev.s3.us-west-2.amazonaws.com/20230221_BH-Palm_DSF7048.jpg)
 <p style="color: grey; font-size: 15px;"> A partial print was recovered from the crime scene along with DNA from one of the victims</p>

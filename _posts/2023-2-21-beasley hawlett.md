@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "&nbsp;"
-
+title: '&nbsp;'
+published: true
 ---
 ![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230221_BH-1.jpg)
 <p style="color: grey; font-size: 15px;"> Swimming area victims discussed visiting a few hours before their murders</p>
 ## The Last hour
-Recently I was allowed to review several hundred Ozark Police Department interviews with witnesses and suspects in the murders of J.B. Beasley and Tracie Hawlett. I then photographed the places in Dale county where investigators believe they were the last hour before their death.
+Recently I was allowed to review several hundred Ozark Police Department interviews with witnesses and suspects in the investigation into the murders of J.B. Beasley and Tracie Hawlett. I then photographed the places in Dale county where investigators believe they were the last hour before their death.
 Included is a photograph of the interviews with their names redacted. 
 
- The trial for the man accused of the murders, Coley McCraney is scheduled for April 17th in Dale County Alabama. He will face the death penalty if convicted.
- These photographs are for our rural community here in Dale Houston and Henry counties that still have an emotional scar from this heinous crime over two decades ago. 
+ The trial for the man accused of the murders, Coley McCraney is scheduled for April 17th in Dale County. He will face the death penalty if convicted.
+ Our rural community here in Dale, Houston and Henry counties still have an emotional scar from this heinous crime over two decades ago. 
  
-What I do know from the witnesses I've met is JB and Tracie were full of life, optimistic and positive celebrating JB's 17th  birthday that evening. 
-In this research I met and became friends with one of the vJB Beasley's father and an entry in her diary revealed how she thought about love. So simple beautiful how she says "fall in love easily, accept people the way they are and ends with stay in love longer".
+What I know from the witnesses I've met is JB and Tracie were full of life, optimistic and positive celebrating JB's 17th birthday that evening. 
+I met and became friends with one of the victims,JB Beasley's father and an entry in her diary revealed how she thought about love. So simple and beautiful how she says "fall in love easily, accept people the way they are" and ends with "stay in love longer".
 I wish we all could remember what JB knew when she was only 16.
 
 For one glorious summer they were beautiful, wild and free. I think that's how they would want to be remembered.
@@ -63,11 +63,3 @@ For one glorious summer they were beautiful, wild and free. I think that's how t
 
 ![](https://jonkalev.s3.us-west-2.amazonaws.com/20230221_BH-Palm_DSF7048.jpg)
 <p style="color: grey; font-size: 15px;"> A partial print was recovered from the crime scene along with DNA from one of the victims</p>
-
-
-
-
-
-
-
- 

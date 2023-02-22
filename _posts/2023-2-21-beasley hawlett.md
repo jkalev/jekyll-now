@@ -13,7 +13,7 @@ Included is a photograph of the interviews with their names redacted.
  Our rural community here in Dale, Houston and Henry counties still have an emotional scar from this heinous crime over two decades ago. 
  
 What I know from the witnesses I've met is JB and Tracie were full of life, optimistic and positive celebrating JB's 17th birthday that evening. 
-I met and became friends with one of the victims,JB Beasley's father and an entry in her diary revealed how she thought about love. So simple and beautiful how she says "fall in love easily, accept people the way they are" and ends with "stay in love longer".
+I met and became friends with one of the victim's father and an entry in her diary revealed how she thought about love. So beautiful how she says "fall in love easily, accept people the way they are" and ends with "stay in love longer".
 I wish we all could remember what JB knew when she was only 16.
 
 For one glorious summer they were beautiful, wild and free. I think that's how they would want to be remembered.

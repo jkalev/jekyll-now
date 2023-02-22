@@ -19,7 +19,7 @@ I wish we all could remember what JB knew when she was only 16.
 For one glorious summer they were beautiful, wild and free. I think that's how they would want to be remembered.
 
 ![](https://jonkalev.s3.us-west-2.amazonaws.com/20230221_diary.jpg)
-<p style="color: grey; font-size: 15px;"> One of the last entries in JB Beasley's diary. courtesy Lanier Beasley</p>
+<p style="color: grey; font-size: 15px;"> One of the last entries in JB Beasley's diary, courtesy Lanier Beasley</p>
 
 
 ![](https://jonkalev.s3.us-west-2.amazonaws.com/20230221_aparticle.jpg)

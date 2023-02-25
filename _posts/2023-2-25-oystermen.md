@@ -10,8 +10,8 @@ A few years ago the state of Florida shut down the oyster beds in Apalachicola F
 
 <div id="slideshow">
   <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230223_Apalach-1.jpg">
-  <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230223_Apalach-2.jpg">
-  <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230223_Apalach-3.jpg">
+  <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230223_apalach-2.jpg">
+  <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230223_apalach-3.jpg">
 </div>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

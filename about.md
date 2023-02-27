@@ -19,7 +19,7 @@ permalink: /about/
 
 contact/ [email](mailto:contactjonkalev@icloud.com)
 
-present/ rancher with a camera
+present/ rancher with camera
 
 past/ practiced architecture for 20 years.
 

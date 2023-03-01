@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "&nbsp;"
-thumbnail-img: /thumbs/thumb.png
-share-img: "https://jonkalev.s3.us-west-2.amazonaws.com/20230228_dothan-6.jpg"
+share-img: "https://jonkalev.s3.us-west-2.amazonaws.com/20230228_dothan-0.jpg"
 ---
-![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230228_dothan-6.jpg)
+![alt text](https://jonkalev.s3.us-west-2.amazonaws.com/20230228_dothan-0.jpg)
 <p style="color: grey; font-size: 16px;">Dothan, Alabama</p>
 
 This crowd is a little sensitive about being photographed with activists out there but here is one of my calves that sold yesterday. Watching the sale what hit me is there are generations of experience accumulated in a sale barn to make a it happen. This really isn't something technology or time can change. From vets to order buyers and the ranchers selling their cattle. 

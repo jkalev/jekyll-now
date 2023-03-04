@@ -21,7 +21,7 @@ contact/ [email](mailto:contactjonkalev@icloud.com)
 
 present/ rancher with a camera.
 
-past/ practiced architecture for 20+ years then worked as a guide in the san juan mountains.
+past/ practiced architecture for 20+ years then worked as a alpine guide.
 
 interests/ cultural landscapes, public land use conflict, dive bars, road trips. 
 

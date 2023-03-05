@@ -19,11 +19,11 @@ permalink: /about/
 
 contact/ [email](mailto:contactjonkalev@icloud.com)
 
-present/ rancher with a camera.
+present/ rancher
 
-past/ practiced architecture for 20+ years then worked as a alpine guide.
+past/ practiced architecture for 20+ years then worked as a alpine guide
 
-interests/ cultural landscapes, public land use conflict, dive bars, road trips. 
+interests/ cultural landscapes, public land use conflict, geography 
 
 selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://jonkalev.medium.com">Zilphia Horton Community Grant: Baptist Bottoms</a> <a href="https://jonkalev.com/baptistbottoms">, No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
 Back to Malheur: Two Years Later</a>. 

@@ -19,7 +19,7 @@ permalink: /about/
 
 contact/ [email](mailto:contactjonkalev@icloud.com)
 
-present/ rancher
+present/ rancher in the black belt region of Alabama
 
 past/ practiced architecture for 20+ years then worked as a alpine guide
 

@@ -1,0 +1,81 @@
+---
+layout:
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-image: url('https://jonkalev.s3.us-west-2.amazonaws.com/20230216_three-cousins.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+
+
+    .link-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: rgba(255, 255, 255, 0.0);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+
+
+    .link {
+      display: inline-block;
+      padding: 10px;
+      color: #B0B0B0;
+      text-decoration: none;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 26px;
+      font-weight: normal;
+      opacity: .30;
+      transition: opacity 0.3s ease-in-out;
+    }
+    .link:hover {
+      opacity: 1;
+    }
+    .space {
+      margin: 0 10px;
+    }
+
+    .text {
+      position: absolute;
+      top: 150px;
+      left: 50%;
+      transform: translateX(-50%);
+       color: #B0B0B0;
+      text-decoration: none;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 46px;
+      font-weight: normal;
+      opacity: 0.2;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="link-wrapper">
+    <a href="/work/" class="link">WORK</a>
+    <span class="space"></span>
+    
+    <a href=/blog/ class="link">BLOG</a>
+  </div>
+
+</body>
+</html>
+
+
+

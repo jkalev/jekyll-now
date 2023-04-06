@@ -13,24 +13,23 @@ permalink: /about/
 
 
 <p class="aligncenter">
-    <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230219_cow_5818_jpg.jpg" alt="me" /> 
+        <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230216_three-cousins.jpg" alt="me" /> 
 </p> 
 
+Jon Kalev graduated with a masters degree in landscape architecture and undergraduate degree in architecture with honors from Auburn University and attended Harvard University, postgraduate study in English Literaure.
 
-contact/ [email](mailto:contactjonkalev@icloud.com)
+past/ practiced architecture and planning over 20 years
 
-present/ rancher in the black belt region of Alabama
+interests/ cultural landscapes, public land use conflict, racial segregation
 
-past/ practiced architecture for 20+ years and worked as an alpine guide
-
-interests/ cultural landscapes, public land use conflict, geography 
-
-selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://jonkalev.medium.com">Zilphia Horton Community Grant: Baptist Bottoms</a> <a href="https://jonkalev.com/baptistbottoms">, No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> Independent Lens
+selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https://youtu.be/O2Vy52pqV6k">No Mans Land</a>,<a href="https://www.pbs.org/video/back-malheur-two-years-later-0o4iek/"> PBS' Independent Lens
 Back to Malheur: Two Years Later</a>. 
 
-cv/ more
 
-Sign up to follow me and never miss a post!
+He currently lives in Alabama, and is available for assignment or commission.
+
+For all inquiries please use the contact form below or [email](mailto:contactjonkalev@icloud.com)
+
 
 <hr>
   
@@ -60,7 +59,7 @@ Sign up to follow me and never miss a post!
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_12927e5257fbb074f8fafe414_40328fe26d" tabindex="-1" value=""></div>
         <div class="optionalParent">
             <div class="clear foot">
-                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <input type="submit" value="Contact" name="subscribe" id="mc-embedded-subscribe" class="button">
                 <p class="brandingLogo"><a href="http://eepurl.com/ij4kSP" title="Mailchimp - email marketing made easy and fun"><img src=""></a></p>
             </div>
         </div>

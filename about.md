@@ -26,8 +26,6 @@ selected work/ <a href="https://jonkalev.medium.com">Medium</a>, <a href="https:
 Back to Malheur: Two Years Later</a>. 
 
 
-He currently lives in Alabama, and is available for assignment or commission.
-
 For all inquiries please use the contact form below or [email](mailto:contactjonkalev@icloud.com)
 
 

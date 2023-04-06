@@ -16,7 +16,7 @@ permalink: /about/
         <img src="https://jonkalev.s3.us-west-2.amazonaws.com/20230216_three-cousins.jpg" alt="me" /> 
 </p> 
 
-Jon Kalev graduated with a masters degree in landscape architecture and undergraduate degree in architecture with honors from Auburn University and attended Harvard University, postgraduate study in English Literaure.
+Jon Kalev graduated with a masters degree in landscape architecture and undergraduate degree in architecture with honors from Auburn University and attended Harvard University.
 
 past/ practiced architecture and planning over 20 years
 
